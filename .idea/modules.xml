@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/guli/service/service.iml" filepath="$PROJECT_DIR$/guli/service/service.iml" />
       <module fileurl="file://$PROJECT_DIR$/guli/common/service_base/service_base.iml" filepath="$PROJECT_DIR$/guli/common/service_base/service_base.iml" />
       <module fileurl="file://$PROJECT_DIR$/guli/service/service_edu/service_edu.iml" filepath="$PROJECT_DIR$/guli/service/service_edu/service_edu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guli/service/service_oss/service_oss.iml" filepath="$PROJECT_DIR$/guli/service/service_oss/service_oss.iml" />
     </modules>
   </component>
 </project>
